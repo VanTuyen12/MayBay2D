@@ -13,15 +13,11 @@ Mô tả
 Một số hình ảnh trong Game.
 <table>
   <tr>
-    <td><img src="./Assets/Images/IMG_E1079.JPG" width="100%"/></td>
-    <td><img src="./Assets/Images/IMG_E1080.JPG" width="100%"/></td>
+    <td><img src="./Assets/Images/R1.png" width="100%"/></td>
+    <td><img src="./Assets/Images/R2.png" width="100%"/></td>
   </tr>
   <tr>
-    <td><img src="./Assets/Images/IMG_E1081.JPG"/></td>
-    <td><img src="./Assets/Images/IMG_E1082.JPG"></td>
-  </tr>
-  <tr>
-    <td><img src="./Assets/Images/IMG_E1083.JPG"/></td>
-    <td></td>
+    <td><img src="./Assets/Images/R4.png"/></td>
+    <td><img src="./Assets/Images/R3.png"></td>
   </tr>
 </table>
